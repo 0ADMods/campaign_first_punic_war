@@ -56,3 +56,6 @@ In the campaign the player will have to stick to Romans or their allies but we w
 - March 10 241 B.C.: Battle of the Aegates (or Egadi Islands) (Romans vs Carthaginians)
 
 This has not been decided yet so it's just for example. For now, maximum 7 maps in the campaign and maybe some extras later.
+
+Please refer to this thread for more information
+https://wildfiregames.com/forum/index.php?/topic/21948-the-first-punic-war-campaign-project/
