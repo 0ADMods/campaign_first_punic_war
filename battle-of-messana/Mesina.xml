@@ -2,7 +2,7 @@
 
 <Scenario version="6">
 	<Environment>
-		<SkySet>sunny</SkySet>
+		<SkySet>cirrus</SkySet>
 		<SunColor r="0.74902" g="0.74902" b="0.74902"/>
 		<SunElevation angle="0.785398"/>
 		<SunRotation angle="-0.785396"/>
@@ -10,8 +10,8 @@
 		<UnitsAmbientColor r="0.501961" g="0.501961" b="0.501961"/>
 		<Fog>
 			<FogFactor>0</FogFactor>
-			<FogThickness>0.5</FogThickness>
-			<FogColor r="0.8" g="0.8" b="0.894118"/>
+			<FogThickness>0.435547</FogThickness>
+			<FogColor r="1" g="0.647059" b="0"/>
 		</Fog>
 		<Water>
 			<WaterBody>
@@ -25,17 +25,17 @@
 			</WaterBody>
 		</Water>
 		<Postproc>
-			<Brightness>-0.0693359</Brightness>
-			<Contrast>1.1416</Contrast>
-			<Saturation>0.99</Saturation>
+			<Brightness>-0.0888672</Brightness>
+			<Contrast>1.21777</Contrast>
+			<Saturation>0.845703</Saturation>
 			<Bloom>0.147461</Bloom>
 			<PostEffect>hdr</PostEffect>
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="876.88" y="401.812" z="536.541"/>
-		<Rotation angle="-0.420081"/>
-		<Declination angle="1.01397"/>
+		<Position x="1012.1" y="426.035" z="763.488"/>
+		<Rotation angle="-1.46186"/>
+		<Declination angle="0.871453"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
