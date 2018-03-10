@@ -34,9 +34,7 @@ We're going to make the campaign with the Roman perspective because a player doe
 In the campaign the player will have to stick to Romans or their allies but we will unlock the other belligerents in each map played alone. There will be a version of each map for the campaign and for the random playing of any map (the sole difference being the playability of everyone on the map by players).
 
 ## IX: Possible List of the Scenarios
-- 264 B.C.: Battle of Messana (Romans vs Syracusans then Romans vs Carthaginians)
-![alt text][Messana]
-[Messana]: https://github.com/0ADMods/campaign_first_punic_war/blob/master/battle-of-messana/mesina_preview.png "Messana"
+- 264 B.C.: Battle of Messana (Romans vs Syracusans then Romans vs Carthaginians)![alt text][Messana][Messana]: https://github.com/0ADMods/campaign_first_punic_war/blob/master/battle-of-messana/mesina_preview.png "Messana"
 - 263 B.C.: Siege of Syracuse (Romans vs Syracusans)
 - 262-261 B.C.: Siege of Agrigentum (Romans vs Carthaginians)
 - 260 B.C.: Battle of the Lipari Islands (Romans vs Carthaginians) (maybe)
