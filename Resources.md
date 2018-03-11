@@ -1,26 +1,15 @@
-The sources (texts and maps) :
+**The sources (texts and maps) :
 
-http://www.discusmedia.com/search/?q=Agri&s=
+- http://www.discusmedia.com/search/?q=Agri&s=
+- http://remacle.org/bloodwolf/historiens/polybe/un.htm It's Polybius's "General History", you can easily find a translation of it in your own language
+- https://fr.wikipedia.org/wiki/Première_guerre_punique
+- https://it.wikipedia.org/wiki/Prima_guerra_punica
+- https://en.wikipedia.org/wiki/First_Punic_War
+- https://es.wikipedia.org/wiki/Primera_guerra_púnica
+- https://www.punicwars.org/
 
-https://it.wikipedia.org/wiki/Battaglia_di_Agrigento
+**Chronology
 
-https://fr.wikipedia.org/wiki/Bataille_d'Agrigente
-
-https://en.wikipedia.org/wiki/Battle_of_Agrigentum
-
-http://remacle.org/bloodwolf/historiens/polybe/un.htm It's Polybius's "General History", you can easily find a translation of it in your own language
-
-https://fr.wikipedia.org/wiki/Première_guerre_punique
-
-https://it.wikipedia.org/wiki/Prima_guerra_punica
-
-https://en.wikipedia.org/wiki/First_Punic_War
-
-https://es.wikipedia.org/wiki/Primera_guerra_púnica
-
-https://www.punicwars.org/
-
-Chronology
 - 265 B.C. - The Mamertines(they are described in the English article), under the attack of Hiero II of Syracuse who wanted to besiege them in Messana (Messina), ask for assistance to Carthage. The Syracusans having withdrawn, the Mamertines ask for help to Rome to enfranchise them from the Carthaginians.
 - 264 B.C. - Disembarkation in Sicily of Roman forces led by Consul Appius Claudius Caudex. The Romans defeat in the battle of Messina first the Syracusans then the Carthaginians.
 - 263 B.C. - Roman troops pass the Strait of Messina on boats furnished by Tarento (Τάρας in Greek and Tarentum in Latin),  Locri (Locris in Greek) and other Greek cities (from Great Greece=southern Italy occupied by the Greeks). The Carthaginians retreat to Agrigentum (Ἀκράγας in Greek). Consul Manius Valerius Maximus said Corvinus Messalla come from Rome with other soldiers, besiege Syracuse and force Hiero II of Syracuse to ally with Rome.
@@ -40,25 +29,30 @@ Chronology
 - 248 B.C. - 243 B.C. - Low intensity battles in Sicily. Raids by both sides in enemy territory. Due to the dire economic conditions, Carthage does not manage to get by Ptolemy Philadelphus, king of Egypt, a loan of 2,000 talents. But Rome isn't rolling in the money too and limits the units needed to 60 ships to contain costs. Hamilcar Barca (father of Hannibal, Hasdrubal and Mago Barca) makes victorious incursions in Sicily and capture Consul Lucius Iunius Pullus. No important naval battles.  Peace tractatives are begun but Marcus Atilius Regulus, who some years earlier sought peace is then sent to Rome to patronize it, guessing that Carthage was almost exhausted, opposes to peace.
 - 242 B.C. - With an extreme effort Rome manages to build a new fleet including the use of private financing. 219 ships are built. Carthage is taken by surprise by this recurrence of a war that was dragging with no big news. The Romans manage to occupy Draepanum (the ancient Trapani) and  the harbour Lilybaeum (the ancient Marsala) is bloccaded.
 - 241 B.C. - March 10, the Battle of the Aegates (or the Battle of the Egadi Islands https://en.wikipedia.org/wiki/Battle_of_the_Aegates) takes place with the decisive victory of Rome. The Carthaginian ships, resupplying cargos for Sicily can not maneuver and flee. Carthage loses 120 ships and 10 000 men are captured. Commander Hanno is prosecuted after the defeat and condemned to death. Carthage is forced to accept the peace conditions. End of the first Punic war.
- 
 
-https://en.wikipedia.org/wiki/Battle_of_Messana
 
-First Punic War.xlsx
+**Books 
 
-Osprey - Battle Orders 027 - The Roman Army of the Punic Wars.pdf
+- Osprey - Battle Orders 027 - The Roman Army of the Punic Wars
+- Osprey - Essential Histories 016 - The Punic Wars 264-146 Bc
+- Osprey - Warrior 150 - Carthaginian Warrior 264-146 BC
+- The_General_History_of_Polybius
 
-Osprey - Essential Histories 016 - The Punic Wars 264-146 Bc.pdf
+*Maps resources
 
-Osprey - Warrior 150 - Carthaginian Warrior 264-146 BC.pdf
+**Battle of Messana
 
-The_General_History_of_Polybius.pdf
+- https://en.wikipedia.org/wiki/Battle_of_Messana
+- https://en.wikipedia.org/wiki/Mamertines#Capture_of_Messana
+- https://en.wikipedia.org/wiki/Fortifications_of_Messina
 
-https://en.wikipedia.org/wiki/Mamertines#Capture_of_Messana
+**Battle of Agrigentum
 
-https://en.wikipedia.org/wiki/Fortifications_of_Messina
+- https://it.wikipedia.org/wiki/Battaglia_di_Agrigento
+- https://fr.wikipedia.org/wiki/Bataille_d'Agrigente
+- https://en.wikipedia.org/wiki/Battle_of_Agrigentum
 
-Videos
+**Videos
 
 Siracusa 3D Reborn. An Ancient Greek City brought Back To Life
 https://www.youtube.com/watch?v=eVfszRzWttk
@@ -103,13 +97,13 @@ Battle of Ecnomus (256 BC) - Largest Naval Battle in History
 https://www.youtube.com/watch?v=jpGMSzgd8eg
 
 
-The tutorials and manuals :
+**The tutorials and manuals :
 
-http://trac.wildfiregames.com/wiki/Triggers
-https://wildfiregames.com/forum/index.php?/topic/19574-tutorial-setting-up-a-mod-for-your-maps/
-https://wildfiregames.com/forum/index.php?/topic/19949-wip-cinematic-camera/
-https://wildfiregames.com/forum/index.php?/topic/20786-palaxins-heightmap-guide/
-https://sandbox.idre.ucla.edu/sandbox/tutorials/installing-gdal-for-windows
-https://blenderartists.org/forum/showthread.php?294036-using-real-world-data-%28DEM-files%29-to-generate-3d-maps
-https://visibleearth.nasa.gov/view.php?id=74468
-http://www.nearby.org.uk/google/nolabels-map.php
+- http://trac.wildfiregames.com/wiki/Triggers
+- https://wildfiregames.com/forum/index.php?/topic/19574-tutorial-setting-up-a-mod-for-your-maps/
+- https://wildfiregames.com/forum/index.php?/topic/19949-wip-cinematic-camera/
+- https://wildfiregames.com/forum/index.php?/topic/20786-palaxins-heightmap-guide/
+- https://sandbox.idre.ucla.edu/sandbox/tutorials/installing-gdal-for-windows
+- https://blenderartists.org/forum/showthread.php?294036-using-real-world-data-%28DEM-files%29-to-generate-3d-maps
+- https://visibleearth.nasa.gov/view.php?id=74468
+- http://www.nearby.org.uk/google/nolabels-map.php
