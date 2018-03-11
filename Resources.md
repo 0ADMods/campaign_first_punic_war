@@ -1,4 +1,4 @@
-##The sources (texts and maps) :
+## The sources (texts and maps) :
 
 - http://www.discusmedia.com/search/?q=Agri&s=
 - http://remacle.org/bloodwolf/historiens/polybe/un.htm It's Polybius's "General History", you can easily find a translation of it in your own language
@@ -8,7 +8,7 @@
 - https://es.wikipedia.org/wiki/Primera_guerra_púnica
 - https://www.punicwars.org/
 
-##Chronology
+## Chronology
 
 - 265 B.C. - The Mamertines(they are described in the English article), under the attack of Hiero II of Syracuse who wanted to besiege them in Messana (Messina), ask for assistance to Carthage. The Syracusans having withdrawn, the Mamertines ask for help to Rome to enfranchise them from the Carthaginians.
 - 264 B.C. - Disembarkation in Sicily of Roman forces led by Consul Appius Claudius Caudex. The Romans defeat in the battle of Messina first the Syracusans then the Carthaginians.
@@ -31,28 +31,28 @@
 - 241 B.C. - March 10, the Battle of the Aegates (or the Battle of the Egadi Islands https://en.wikipedia.org/wiki/Battle_of_the_Aegates) takes place with the decisive victory of Rome. The Carthaginian ships, resupplying cargos for Sicily can not maneuver and flee. Carthage loses 120 ships and 10 000 men are captured. Commander Hanno is prosecuted after the defeat and condemned to death. Carthage is forced to accept the peace conditions. End of the first Punic war.
 
 
-##Books 
+## Books 
 
 - Osprey - Battle Orders 027 - The Roman Army of the Punic Wars
 - Osprey - Essential Histories 016 - The Punic Wars 264-146 Bc
 - Osprey - Warrior 150 - Carthaginian Warrior 264-146 BC
 - The_General_History_of_Polybius
 
-##Maps resources
+## Maps resources
 
-###Battle of Messana
+### Battle of Messana
 
 - https://en.wikipedia.org/wiki/Battle_of_Messana
 - https://en.wikipedia.org/wiki/Mamertines#Capture_of_Messana
 - https://en.wikipedia.org/wiki/Fortifications_of_Messina
 
-###Battle of Agrigentum
+### Battle of Agrigentum
 
 - https://it.wikipedia.org/wiki/Battaglia_di_Agrigento
 - https://fr.wikipedia.org/wiki/Bataille_d'Agrigente
 - https://en.wikipedia.org/wiki/Battle_of_Agrigentum
 
-##Videos
+## Videos
 
 Siracusa 3D Reborn. An Ancient Greek City brought Back To Life
 https://www.youtube.com/watch?v=eVfszRzWttk
@@ -97,7 +97,7 @@ Battle of Ecnomus (256 BC) - Largest Naval Battle in History
 https://www.youtube.com/watch?v=jpGMSzgd8eg
 
 
-##The tutorials and manuals :
+## The tutorials and manuals :
 
 - http://trac.wildfiregames.com/wiki/Triggers
 - https://wildfiregames.com/forum/index.php?/topic/19574-tutorial-setting-up-a-mod-for-your-maps/
