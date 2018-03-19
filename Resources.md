@@ -7,6 +7,7 @@
 - https://en.wikipedia.org/wiki/First_Punic_War
 - https://es.wikipedia.org/wiki/Primera_guerra_púnica
 - https://www.punicwars.org/
+- https://artsandculture.google.com/partner/parco-archeologico-e-paesaggistico-valle-dei-templi
 
 ## Chronology
 
@@ -51,6 +52,14 @@
 - https://it.wikipedia.org/wiki/Battaglia_di_Agrigento
 - https://fr.wikipedia.org/wiki/Bataille_d'Agrigente
 - https://en.wikipedia.org/wiki/Battle_of_Agrigentum
+- https://www.parcovalledeitempli.it
+
+- Agrigentum - documentario
+https://www.youtube.com/watch?v=SokOJazX6KI
+
+- Valle dei Templi Agrigento
+https://www.youtube.com/watch?v=mVNtf244R44
+
 
 ## Videos
 
@@ -95,6 +104,14 @@ https://www.youtube.com/watch?v=UswjHNEfZ3Q
 
 Battle of Ecnomus (256 BC) - Largest Naval Battle in History
 https://www.youtube.com/watch?v=jpGMSzgd8eg
+
+La ricostruzione in 3d del tempio di giove
+https://www.youtube.com/watch?v=s669RgyAB1M1
+
+The Temples of Agrigento Color
+https://www.youtube.com/watch?v=mWhxtszEANI
+
+
 
 
 ## The tutorials and manuals :
